@@ -1,5 +1,5 @@
 # SimpleOrderAnglar
-A simple app to create order list of customers.
+A simple app to create order list of customers using HTML, CSS, JavaScript and MongoDB.
 
 Packages required to run this application are Meteor and AngularJS. 
 https://www.meteor.com/
